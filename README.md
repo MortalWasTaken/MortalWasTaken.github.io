@@ -27,7 +27,8 @@
             <h2>Spreen</h2>
             <p>Spreen es un streamer conocido por su enfoque relajado y amigable en sus transmisiones. Suele destacar por su habilidad en diversos juegos, así como por su actitud positiva y su capacidad para crear un ambiente acogedor en su comunidad de seguidores. Además, es reconocido por su interacción cercana con los espectadores, lo que le ha permitido construir una base de seguidores sólida. Su contenido puede incluir una variedad de juegos, así como charlas informales y eventos especiales. En resumen, Spreen es un streamer que ofrece una experiencia agradable y divertida para aquellos que disfrutan de sus transmisiones.</p>
         </li>
-        <li>Aquino</h2>
+        <li>
+        <h3>Aquino</h3>
         <p>Aquino es un streamer conocido por su habilidad en juegos de estrategia y su enfoque competitivo. Destaca por su profundo conocimiento del juego y su capacidad para analizar y ejecutar estrategias efectivas en tiempo real. Además, es reconocido por su dedicación a mejorar constantemente y por su actitud profesional en sus transmisiones. Su contenido a menudo incluye partidas competitivas, tutoriales y análisis de juego, lo que lo convierte en una fuente valiosa de aprendizaje para sus seguidores. En resumen, Aquino es un streamer que ofrece un alto nivel de habilidad y conocimiento en juegos de estrategia, junto con un compromiso continuo con la excelencia en su contenido.</p>
         </li>
         <!-- Puedes agregar más información según sea necesario -->
