@@ -1,26 +1,41 @@
 <!DOCTYPE html>
-<html>
-	<head>
-    	<link rel="stylesheet" href="un.css">
-   	<h1> Ma petite page Web en SNT</h1>
-	</head>
-	<body>
-   	<h2> Le Cours et les activites</h2>
-   	 
-    	<p>Bonjour, voici les chapitres durant notre parcours en SNT:</p>
-   	 
-    	<p>Chapitre #1: Python </p>
-    	<a href="https://cfsadovnik.github.io/Python" target="_blank">Python</a>
-    	<p>Chapitre #2: Internet </p>
-    	<a href="https://cfsadovnik.github.io/Internet" target="_blank">Internet</a>
-    	<p>Chapitre #3: Le Web </p>
-    	<a href="https://cfsadovnik.github.io/Le Web" target="_blank">Le Web</a>
-    	<p>Chapitre #4: Les reseaux sociaux </p>
-    	<p>Chapitre #5: Le traitement de donnes </p>
-    	<p>Chapitre #6: La photographie numerique </p>
-    	<p>Chapitre #7: La geolocalisation </p>
-    	<p>Chapitre #8: Les objets connectes </p>
-	</body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Información de Streamers</title>
+    <style>
+        /* Estilos básicos para la lista */
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Información de Streamers</h1>
+    <ul>
+        <!-- Información de los streamers -->
+        <li>
+            <h2>Streamer 1</h2>
+            <p>Descripción del streamer 1.</p>
+        </li>
+        <li>
+            <h2>Streamer 2</h2>
+            <p>Descripción del streamer 2.</p>
+        </li>
+        <li>
+            <h2>Streamer 3</h2>
+            <p>Descripción del streamer 3.</p>
+        </li>
+        <!-- Puedes agregar más información según sea necesario -->
+    </ul>
+</body>
+</html>
+
     
     	<p>Ensuite, les projets a realiser en SNT sont:</p>
     
