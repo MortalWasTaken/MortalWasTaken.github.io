@@ -1,8 +1,8 @@
 body {
     background: linear-gradient(to bottom, #000000, #000000),
                 linear-gradient(to bottom, #00FF00, #003300);
-    color: #00FF00; /* Color del texto */
+    color: #00FF00;
     margin: 0;
     padding: 0;
-    font-family: Courier, monospace; /* Fuente del texto */
+    font-family: Courier, monospace; 
 }
