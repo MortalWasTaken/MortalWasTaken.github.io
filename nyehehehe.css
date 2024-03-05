@@ -1,8 +1,8 @@
 body {
-    background-color: #ffffcc; /* Color de fondo amarillento */
-    color: #000000; /* Color del texto */
+    background-color: #ffffcc; 
+    color: #000000;
     margin: 0;
     padding: 20px;
-    font-family: 'Courier New', Courier, monospace; /* Fuente monoespaciada */
-    line-height: 1.6; /* Altura de línea */
+    font-family: 'Courier New', Courier, monospace; 
+    line-height: 1.6; 
 }
